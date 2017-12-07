@@ -13,8 +13,6 @@ Venture Beat | bots tag
 Motherboard | bots tag
 > https://motherboard.vice.com/en_us/topic/bots
 
-___
-
 ## Bot Platforms
 
 Microsoft Bot Framework blog
