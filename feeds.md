@@ -76,6 +76,9 @@ Slack Platform | Medium
 Messenger Platform blog
 > https://messenger.fb.com/blog
 
+Telegram blog
+> https://telegram.org/blog
+
 Wire | Medium
 > https://medium.com/@wireapp
 
