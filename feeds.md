@@ -57,13 +57,13 @@ IBM Watson blog
 > https://www.ibm.com/blogs/watson/
 
 Wit.ai blog
-https://wit.ai/blog
+> https://wit.ai/blog
 
 Amazon AWS | Lex tag
-https://aws.amazon.com/blogs/ai/tag/amazon-lex/
+> https://aws.amazon.com/blogs/ai/tag/amazon-lex/
 
 Google Tensorflow blog
-https://research.googleblog.com/search/label/TensorFlow
+> https://research.googleblog.com/search/label/TensorFlow
 
 ## Message Platforms
 
