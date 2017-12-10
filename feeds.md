@@ -4,16 +4,20 @@
 
 The Guardian | chatbots tag
 > https://www.theguardian.com/technology/chatbots
+> https://www.theguardian.com/technology/artificialintelligenceai
 
-TechCrumch | chatbots tag
+TechCrumch | tags
 > https://techcrunch.com/tag/chatbots/
+> https://techcrunch.com/artificial-intelligence-2/
+> https://techcrunch.com/tag/messaging/
 
-
-Venture Beat | bots tag
+Venture Beat | tags
 > https://venturebeat.com/category/bots/
+> https://venturebeat.com/category/ai/
 
 Motherboard | bots tag
 > https://motherboard.vice.com/en_us/topic/bots
+> https://motherboard.vice.com/en_us/topic/artificial-intelligence
 
 ## Bot Platforms
 
@@ -83,6 +87,9 @@ Telegram blog
 
 Wire | Medium
 > https://medium.com/@wireapp
+
+WhatsApp blog
+> https://blog.whatsapp.com/
 
 Google Allo blog
 > https://www.blog.google/products/allo/
