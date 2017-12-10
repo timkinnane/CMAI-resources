@@ -2,7 +2,7 @@
 
 ## Journalism
 
-The Guardian | chatbots tag
+The Guardian | tags
 > https://www.theguardian.com/technology/chatbots
 
 > https://www.theguardian.com/technology/artificialintelligenceai
@@ -19,7 +19,7 @@ Venture Beat | tags
 
 > https://venturebeat.com/category/ai/
 
-Motherboard | bots tag
+Motherboard | tags
 > https://motherboard.vice.com/en_us/topic/bots
 
 > https://motherboard.vice.com/en_us/topic/artificial-intelligence
