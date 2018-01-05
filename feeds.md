@@ -53,6 +53,9 @@ ManyChat blog
 Botsociety blog
 > https://botsociety.io/blog
 
+Message.io | Medium
+> https://dispatch.message.io/
+
 Botpress blog
 > https://botpress.io/blog
 
