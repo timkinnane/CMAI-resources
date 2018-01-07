@@ -139,8 +139,8 @@ Space10 | Medium
 BotMatkers | Medium
 > https://blog.botmakers.net
 
-Master of Code blog
-> https://masterofcode.com/blog
+ddouble | Medium
+> https://medium.com/ddouble
 
 ## Aggregates
 
